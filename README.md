@@ -4,13 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yvngxsanty&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvngxsanty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/1200x/21/ce/15/21ce150a5e93e1b70c52e45aa9cdeaa2.jpg"  />
 
 ###
